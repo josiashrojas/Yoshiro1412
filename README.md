@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhrojas
+- 👋 Hi, I’m @josiashrojas
 - 👀 I’m interested in news technologies and web design
 - 🌱 I’m currently learning the MERN stack (Mongo-Express-React-NodeJS)
 - 💞️ I’m looking to collaborate on ReactJS projects from startups
